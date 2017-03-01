@@ -1,1 +1,1 @@
-# MultiSelectTableCell
+# SWMultiSelectTableCell
